@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p>&copy; 2024 Your Company</p>
+    <p>&copy; 2026 Your Company</p>
   </footer>
 </template>
 
